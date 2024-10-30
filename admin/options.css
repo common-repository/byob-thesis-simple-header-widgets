@@ -1,0 +1,19 @@
+/*
+File Name:		options.css
+Description:            Styles for BYOB Thesis Plugins
+Author:			Rick Anderson
+Author URI:		http://www.byobwebsite.com/
+
+-----------------------------------------------------------------------------*/
+
+/*---:[ header layout configuration examples ]:---*/
+
+#thesis_options{font-size:10px;}
+.options_module ul.column_structure .col_full { width: 272px; }
+.options_module ul.column_structure .col_half { width: 133px; }
+.options_module ul.column_structure .col_third { width: 86px; }
+.options_module ul.column_structure .col_fourth { width: 64px; }
+.options_module ul.column_structure .col_fifth { width: 50px; letter-spacing:-1px;}
+
+
+
